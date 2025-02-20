@@ -1,6 +1,7 @@
 # Driving-school-2-kata
 
 Este projeto é um exemplo de cálculo do valor de uma aula de direção com base no tempo de aula fornecido pelo usuário.
+Link do kata: https://www.codewars.com/kata/589b1c15081bcbfe6700017a/java
 
 ## Estrutura do Projeto
 
