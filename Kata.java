@@ -32,8 +32,6 @@ public class Kata {
         }
 
         scanner.close();
-        
-
-}
+    }
 }   
 
