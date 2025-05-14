@@ -32,11 +32,3 @@ Link do kata: https://www.codewars.com/kata/589b1c15081bcbfe6700017a/java
 Ao executar o programa, você verá uma mensagem solicitando o tempo de aula:
 
 Digite o tempo de aula em minutos e pressione Enter. O programa calculará e exibirá o valor da aula.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
